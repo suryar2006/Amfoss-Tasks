@@ -1,4 +1,4 @@
-# Hello! I’m [Your Name]
+# Hello! I’m Surya R
 
 I’m a passionate coder and lifelong learner, with a strong interest in programming and web development. I’m comfortable with Python and C, and I’ve also studied Java, HTML, and C++. I dabbled in React a while back, though I’m a bit rusty on it now!
 
